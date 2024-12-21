@@ -19,7 +19,7 @@ This project is designed to teach the core tools and techniques for conducting p
 
 <h2>Materials and Methods 材料與方法</h2>
 
-- <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/projects/vulnerability-scanning-with-nmap-network-scanning)</b> 
+- <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/projects/metasploit-for-beginners-ethical-penetration-testing)</b> 
 - <b>Virtual Cloud Workspace (虛擬雲端工作區)</b>
 - <b>PC (win10,個人電腦對照差異)</b>
 
