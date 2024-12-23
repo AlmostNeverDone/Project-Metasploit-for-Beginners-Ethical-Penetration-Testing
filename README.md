@@ -11,11 +11,9 @@ This project is designed to teach the core tools and techniques for conducting p
 
 <h2>Project Objectives 專題目的</h2>
 
-- <b>Verify the Nmap installation and the Nmap version using the terminal. (使用終端驗證 Nmap 安裝和 Nmap 版本)</b>
-- <b>Reference the Man page or help feature for additional information on using the Nmap tool. (參考 Man 手冊頁面或幫助功能，以獲取有關使用 Nmap 工具的更多資訊)</b> 
-- <b>Perform basic network scanning on a target using Nmap. (使用 Nmap 對目標執行基本網路掃描)</b> 
-- <b>Discover active hosts, ports, services, and the operating system on a target to identify potential vulnerabilities. (發掘目標上的活動主機、連接埠、服務以及作業系統，以識別潛在的漏洞)</b> 
-- <b>Use options to customize scans, output results to a file, and further assess a network. (使用選項自訂掃描、將結果輸出到檔案並進一步評估網絡)</b> 
+- <b>Perform a Vulnerability Scan Analysis to enable effective vulnerability reporting. (執行漏洞掃描分析以實現有效的漏洞報告)</b>
+- <b>Utilize an exploit using Metasploit to gain access to a vulnerable system. (利用 Metasploit 進行漏洞來存取易受攻擊的系統)</b> 
+- <b>Author comprehensive penetration testing reports with results that will enable a company to fix its vulnerabilities. (編寫全面的滲透測試報告，其結果將使公司能夠修復其漏洞)</b> 
 
 <h2>Materials and Methods 材料與方法</h2>
 
