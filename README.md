@@ -12,14 +12,14 @@ This project is designed to teach the core tools and techniques for conducting p
 <h2>Project Objectives 專題目的</h2>
 
 - <b>Perform a Vulnerability Scan Analysis to enable effective vulnerability reporting. (執行漏洞掃描分析以實現有效的漏洞報告)</b>
-- <b>Utilize an exploit using Metasploit to gain access to a vulnerable system. (利用 Metasploit 進行漏洞來存取易受攻擊的系統)</b> 
+- <b>Utilize an exploit using Metasploit to gain access to a vulnerable system. (利用 Metasploit 執行漏洞攻擊，嘗試取得對易受攻擊系統的存取權限)</b> 
 - <b>Author comprehensive penetration testing reports with results that will enable a company to fix its vulnerabilities. (編寫全面的滲透測試報告，其結果將使公司能夠修復其漏洞)</b> 
 
 <h2>Materials and Methods 材料與方法</h2>
 
 - <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/projects/metasploit-for-beginners-ethical-penetration-testing)</b> 
-- <b>Virtual Cloud Workspace (虛擬雲端工作區)</b>
-- <b>PC (win10,個人電腦對照差異)</b>
+- <b>Oracle VM VirtualBox (VirtualBox 虛擬機)</b>
+- <b>Metasploit (一種用於深透測試與漏洞利用的開源工具框架)</b>
 
 Tasks:
 - <b>Verify the installation and version of Nmap (驗證 Nmap 的安裝和版本)</b>
