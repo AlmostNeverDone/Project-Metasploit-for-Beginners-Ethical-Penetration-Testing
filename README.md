@@ -19,7 +19,7 @@ This project is designed to teach the core tools and techniques for conducting p
 
 - <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/projects/metasploit-for-beginners-ethical-penetration-testing)</b> 
 - <b>Oracle VM VirtualBox (VirtualBox 虛擬機)</b>
-- <b>Metasploit (一種用於深透測試與漏洞利用的開源工具框架)</b>
+- <b>Metasploit (一種用於滲透測試與漏洞利用的開源工具框架)</b>
 
 Tasks:
 - <b>Verify the installation and version of Nmap (驗證 Nmap 的安裝和版本)</b>
