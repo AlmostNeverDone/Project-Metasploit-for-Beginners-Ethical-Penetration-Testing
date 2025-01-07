@@ -1,4 +1,4 @@
-<h1>Network Security Testing with Metasploit</h1>
+<h1>Project: Metasploit for Beginners: Ethical Penetration Testing</h1>
 專題: 使用 Metasploit 進行網路安全測試
 
 <h2>Outline 簡介</h2>
