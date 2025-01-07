@@ -19,10 +19,12 @@ This project is designed to teach the core tools and techniques for conducting p
 
 - <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/projects/metasploit-for-beginners-ethical-penetration-testing)</b> 
 - <b>Oracle VM VirtualBox (VirtualBox 虛擬機)</b>
-- <b>Metasploit (一種用於滲透測試與漏洞利用的開源工具框架)</b>
+- <b>Kali Linux OS (Kali Linux 作業系統)[attacking machine(攻擊機)]</b>
+- <b>Metasploitable2 machine [victim machine(受害者機器)]</b>
 
 Tasks:
-- <b>Verify the installation and version of Nmap (驗證 Nmap 的安裝和版本)</b>
+- <b>Use Nmap to Scan for Vulnerable Services (使用Nmap掃描有漏洞的服務)</b>
+
 - <b>Access the Help Feature and Man Page for Nmap (存取 Nmap 的幫助功能或 Man 手冊頁面)</b>
 - <b>Run a Basic Nmap Scan on a Target (在目標上執行基本 Nmap 掃描)</b>
 - <b>Run a Nmap Scan using Options (使用選項執行 Nmap 掃描)</b>
