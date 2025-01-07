@@ -1,5 +1,5 @@
 <h1>Project: Metasploit for Beginners: Ethical Penetration Testing</h1>
-專題: 使用 Metasploit 進行網路安全測試
+專題: Metasploit 初學者：道德滲透測試
 
 <h2>Outline 簡介</h2>
 This project is designed to teach the core tools and techniques for conducting penetration testing and ethical hacking with Metasploit. Through hands-on practice, participants will gain expertise in essential tools like Metasploit and Nmap, equipping them to tackle real-world cybersecurity challenges effectively.
