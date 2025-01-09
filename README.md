@@ -19,8 +19,8 @@ This project is designed to teach the core tools and techniques for conducting p
 
 - <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/projects/metasploit-for-beginners-ethical-penetration-testing)</b> 
 - <b>Oracle VM VirtualBox (VirtualBox 虛擬機)</b>
-- <b>Kali Linux OS (Kali Linux 作業系統)[attacking machine(攻擊機)]</b>
-- <b>Metasploitable2 machine [victim machine(受害者機器)]</b>
+- <b>Attacking machine(攻擊機): Kali Linux OS (Kali Linux 作業系統)</b>
+- <b>Victim machine(受害者機器): Metasploitable2 machine</b>
 
 Tasks:
 - <b>Use Nmap to Scan for Vulnerable Services (使用Nmap掃描有漏洞的服務)</b>
