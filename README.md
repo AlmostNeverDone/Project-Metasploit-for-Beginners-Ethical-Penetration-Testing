@@ -27,8 +27,10 @@ Tasks:
 - <b>Vulnerability Research with Google Dorking (使用 Google Dorking 進行漏洞研究)</b>
 - <b>Introduction To Metasploit (Metasploit 簡介)</b>
 - <b>Load First Metasploit Module (載入首個 Metasploit 模組)</b>
+- <b>Configure First Metasploit Module (配置首個 Metasploit 模組)</b>
 
-- <b>Output Nmap Scan Results to a File (將 Nmap 掃描結果輸出到文件)</b>
+- <b> ()</b>
+- <b> ()</b>
 
 <h2>Practice 實踐</h2>
 
