@@ -25,9 +25,9 @@ This project is designed to teach the core tools and techniques for conducting p
 Tasks:
 - <b>Use Nmap to Scan for Vulnerable Services (使用Nmap掃描有漏洞的服務)</b>
 - <b>Vulnerability Research with Google Dorking (使用 Google Dorking 進行漏洞研究)</b>
+- <b>Introduction To Metasploit (Metasploit 簡介)</b>
+- <b>Load First Metasploit Module (載入首個 Metasploit 模組)</b>
 
-- <b>Run a Basic Nmap Scan on a Target (在目標上執行基本 Nmap 掃描)</b>
-- <b>Run a Nmap Scan using Options (使用選項執行 Nmap 掃描)</b>
 - <b>Output Nmap Scan Results to a File (將 Nmap 掃描結果輸出到文件)</b>
 
 <h2>Practice 實踐</h2>
