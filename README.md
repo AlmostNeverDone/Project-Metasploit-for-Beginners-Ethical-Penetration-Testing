@@ -25,7 +25,7 @@ This project is designed to teach the core tools and techniques for conducting p
 Tasks:
 - <b>Use Nmap to Scan for Vulnerable Services (使用Nmap掃描有漏洞的服務)</b>
 - <b>Vulnerability Research with Google Dorking (使用 Google Dorking 進行漏洞研究)</b>
-- <b>Introduction To Metasploit (Metasploit 簡介)</b>
+- <b>Introduction To Metasploit (Metasploit 入門)</b>
 - <b>Load First Metasploit Module (載入首個 Metasploit 模組)</b>
 - <b>Configure First Metasploit Module (配置首個 Metasploit 模組)</b>
 - <b>Establishing Persistence (建立持續存取)</b>
@@ -42,18 +42,25 @@ Task 2: Vulnerability Research with Google Dorking (使用 Google Dorking 進行
 <img src="https://i.imgur.com/IyyeLIm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 3: Run a Basic Nmap Scan on a Target (在目標上執行基本 Nmap 掃描) <br/>
+Task 3: Introduction To Metasploit (Metasploit 入門) <br/>
 <img src="https://i.imgur.com/zwEEi2R.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 4: Run a Nmap Scan using Options (使用選項執行 Nmap 掃描) <br/>
+Task 4: Load First Metasploit Module (載入首個 Metasploit 模組) <br/>
 <img src="https://i.imgur.com/NsIXyoX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 5: Output Nmap Scan Results to a File (將 Nmap 掃描結果輸出到文件) <br/>
+Task 5: Configure First Metasploit Module (配置首個 Metasploit 模組) <br/>
 <img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+Task 6: Establishing Persistence (建立持續存取) <br/>
+<img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Task 7: Configure First Metasploit Module (配置首個 Metasploit 模組) <br/>
+<img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <!--
  ```diff
 - text in red
