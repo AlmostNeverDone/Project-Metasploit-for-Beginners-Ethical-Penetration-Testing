@@ -35,32 +35,31 @@ Tasks:
 
 <p align="center">
 Task 1: Use Nmap to Scan for Vulnerable Services (使用Nmap掃描有漏洞的服務) <br/>
-<img src="https://i.imgur.com/7oKsfQC.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q41JSXl.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 2: Vulnerability Research with Google Dorking (使用 Google Dorking 進行漏洞研究)  <br/>
-<img src="https://i.imgur.com/IyyeLIm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fLYJfF2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 3: Introduction To Metasploit (Metasploit 入門) <br/>
-<img src="https://i.imgur.com/zwEEi2R.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lai043V.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 4: Load First Metasploit Module (載入首個 Metasploit 模組) <br/>
-<img src="https://i.imgur.com/NsIXyoX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fYvFJ2L.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 5: Configure First Metasploit Module (配置首個 Metasploit 模組) <br/>
-<img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uOWAhMM.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 6: Establishing Persistence (建立持續存取) <br/>
-<img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nTF2aXp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 7: Reporting Our Findings (回報發現) <br/>
-<img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+https://docs.google.com/document/d/1hfOwVR4Rgr7I5IuaVhLCuwOKjfeSFrVf/edit?usp=drive_link&ouid=115900811904152565378&rtpof=true&sd=true
 <!--
  ```diff
 - text in red
