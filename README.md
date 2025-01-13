@@ -29,7 +29,7 @@ Tasks:
 - <b>Load First Metasploit Module (載入首個 Metasploit 模組)</b>
 - <b>Configure First Metasploit Module (配置首個 Metasploit 模組)</b>
 - <b>Establishing Persistence (建立持續存取)</b>
-- <b> ()</b>
+- <b>Reporting Our Findings (回報發現)</b>
 
 <h2>Practice 實踐</h2>
 
@@ -58,7 +58,7 @@ Task 6: Establishing Persistence (建立持續存取) <br/>
 <img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 7: Configure First Metasploit Module (配置首個 Metasploit 模組) <br/>
+Task 7: Reporting Our Findings (回報發現) <br/>
 <img src="https://i.imgur.com/Z1DEXBv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <!--
