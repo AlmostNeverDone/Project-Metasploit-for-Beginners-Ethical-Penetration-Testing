@@ -28,8 +28,8 @@ Tasks:
 - <b>Introduction To Metasploit (Metasploit 簡介)</b>
 - <b>Load First Metasploit Module (載入首個 Metasploit 模組)</b>
 - <b>Configure First Metasploit Module (配置首個 Metasploit 模組)</b>
+- <b>Establishing Persistence (建立持續存取)</b>
 
-- <b> ()</b>
 - <b> ()</b>
 
 <h2>Practice 實踐</h2>
